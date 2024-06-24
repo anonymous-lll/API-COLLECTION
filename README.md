@@ -91,6 +91,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | MAHER API | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.maher-zubair.tech) | `Aktif` | API Collection | `Tidak` |
 | SAMIR API | [SamirApi](https://github.com/samirxpikachuio) | [Link](https://samirxpikachu.onrender.com) | `Aktif` | API Collection | `Tidak` |
 | Mininxd API | [Mininxd](https://github.com/mininxd) | [Link](https://api.mininxd.my.id/) | `Aktif` | API Collection | `Tidak` |
+| VihangaYT API | [VihangYT](https://github.com/anonymous-lll) | [Link](https://api.vihangayt.com) | `Aktif` | API Collection | `Tidak` |
 
 ## :fire: Tambahan
 
